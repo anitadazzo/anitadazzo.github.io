@@ -7,8 +7,10 @@ html {
         font-size: 60px;
     }
     body {
-        font-family: 'Josefin Sans', sans-serif;
-      }
+        font-family: 'Josefin Sans', sans-serif;<style>
+        background-image: url('background.jpg');
+    
+    }
       
   }
 
