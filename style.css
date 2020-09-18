@@ -12,12 +12,16 @@ html {
         font-size: 100px;
     
     }
+    main{
+        font-family: 'Franklin Gothic';
+        color:#1a635d
+    }
     button {
         padding: 30px;
         background-color: salmon
     }
     button:hover{
-                background-color: aqua;
+                background-color: teal;
     }
       
   }
