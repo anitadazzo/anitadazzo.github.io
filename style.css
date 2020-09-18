@@ -12,6 +12,12 @@ html {
         font-size: 100px;
     
     }
+    button {
+        padding: 40px;
+    }
+    button:hover{
+                background-color: aqua;
+    }
       
   }
 
