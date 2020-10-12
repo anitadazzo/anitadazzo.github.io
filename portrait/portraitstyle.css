@@ -1,10 +1,11 @@
 
  h1{
-    color: blue;
+    color: rgb(245, 245, 180);
     font-size: 200px;
+    font-family: 'Crimson Text', serif;
 }
 body {
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Crimson Text', serif;
     background-image: url('flowerbackground.jpg');
     font-size: 100px;
     background-color: #f9f9f9;
