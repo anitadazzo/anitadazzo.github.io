@@ -1,0 +1,22 @@
+html {
+
+    background-color: #f9f9f9;
+
+    h1{
+        color: #909090
+        font-size: 200px;
+    }
+    body {
+        font-family: 'Josefin Sans', sans-serif;<style>
+        background-image: url('flowerbackground.jpg');
+        font-size: 100px;
+    
+    }
+    main{
+        font-family: 'Franklin Gothic';
+        color:#1a635d
+    }
+      
+  }
+
+  
