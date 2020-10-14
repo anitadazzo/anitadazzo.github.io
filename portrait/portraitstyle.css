@@ -13,7 +13,7 @@
     font-size: 100px;
     background-color: #f9f9f9;
     color: hotpink;
-    text-decoration-color: white;
+    text-decoration-color: hotpink;
 }
 .headerA{
     color: white;
@@ -28,6 +28,7 @@
     background-image: url('narcissus.jpg');
     font-size: 100px;
     color: #ff8800;
+    text-decoration-color: #ff8800;
 }
 .headerN{
     color: darkgreen;
