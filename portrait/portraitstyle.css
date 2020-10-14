@@ -69,15 +69,15 @@
     font-family: 'Crimson Text', serif;
     background-image: url('anemone.jpg');
     font-size: 100px;
-    color: #a74fa7;
-    text-decoration-color: #a74fa7;
+    color: #64d86a;
+    text-decoration-color: #64d86a;
 }
 .headerAA{
-    color: purple;
+    color: #a74fa7;
     background-image: url('anemone.jpg');
     font-family: 'Crimson Text', serif;
     font-size: 100px;
-    text-decoration-color: purple;
+    text-decoration-color: #a74fa7;
 }
 
   
