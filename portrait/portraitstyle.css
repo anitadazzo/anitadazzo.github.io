@@ -16,7 +16,14 @@ h1{
     background-image: url('azalea.jpg');
     font-size: 100px;
     background-color: #f9f9f9;
+    color: white;
 }
+.headerA{
+    color: white;
+    font-family: 'Crimson Text', serif;
+    font-size: 200px;
+}
+
 .narcissus {
     font-family: 'Crimson Text', serif;
     background-image: url('narcissus.jpg');
