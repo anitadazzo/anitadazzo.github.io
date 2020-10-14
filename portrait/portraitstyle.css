@@ -41,19 +41,43 @@
     font-family: 'Crimson Text', serif;
     background-image: url('iris.jpg');
     font-size: 100px;
-    background-color: #f9f9f9;
+    color: #035a25;
+    text-decoration-color: #035a25;
+}
+.headerI{
+    color: purple;
+    background-image: url('iris.jpg');
+    font-family: 'Crimson Text', serif;
+    font-size: 100px;
+    text-decoration-color: darkgreen;
 }
 .tulip {
     font-family: 'Crimson Text', serif;
     background-image: url('tulip.png');
     font-size: 100px;
-    background-color: #f9f9f9;
+    color: #000000;
+    text-decoration-color: #000000;
+}
+.headerT{
+    color: black;
+    background-image: url('tulip.png');
+    font-family: 'Crimson Text', serif;
+    font-size: 100px;
+    text-decoration-color: black;
 }
 .anemone {
     font-family: 'Crimson Text', serif;
     background-image: url('anemone.jpg');
     font-size: 100px;
-    background-color: #f9f9f9;
+    color: #a74fa7;
+    text-decoration-color: #a74fa7;
+}
+.headerAA{
+    color: purple;
+    background-image: url('anemone.jpg');
+    font-family: 'Crimson Text', serif;
+    font-size: 100px;
+    text-decoration-color: purple;
 }
 
   
