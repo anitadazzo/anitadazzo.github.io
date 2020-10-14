@@ -6,12 +6,7 @@
     color: rgb(236, 188, 28);
     font-size: 100px;
 }
-.headerIndex{
-    font-family: 'Crimson Text', serif;
-    background-image: url('flowerbackground.jpg');
-    color: rgb(236, 188, 28);
-    font-size: 100px;
-}
+
 .azalea {
     font-family: 'Crimson Text', serif;
     background-image: url('azalea.jpg');
@@ -32,7 +27,14 @@
     font-family: 'Crimson Text', serif;
     background-image: url('narcissus.jpg');
     font-size: 100px;
-    background-color: #f9f9f9;
+    background-color: #ff8800;
+}
+.headerN{
+    color: darkgreen;
+    background-image: url('azalea.jpg');
+    font-family: 'Crimson Text', serif;
+    font-size: 100px;
+    text-decoration-color: darkgreen;
 }
 .iris {
     font-family: 'Crimson Text', serif;
