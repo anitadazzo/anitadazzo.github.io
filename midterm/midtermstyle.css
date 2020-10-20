@@ -21,46 +21,11 @@ html {
 .second-column {
     flex: 1;
 }
-#header {
+.header {
     padding: 3px;
     margin-left: 2%;
     margin-top: 15px;
     color: #669966;
     text-align: center;
-}
-
-#asia {
-    height: 50vh;
-    width: 50vh;
-}
-
-#europe {
-    height: 50vh;
-    width: 50vh;
-}
-
-#namerica {
-    height: 50vh;
-    width: 50vh;
-}
-
-#samerica {
-    height: 50vh;
-    width: 50vh;
-}
-
-#australia {
-    height: 50vh;
-    width: 50vh;
-}
-
-#antactica {
-    height: 50vh;
-    width: 50vh;
-}
-
-#africa {
-    height: 50vh;
-    width: 50vh;
 }
 
