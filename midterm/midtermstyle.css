@@ -18,32 +18,37 @@ html {
     text-align: center;
 }
 
-#england {
+#asia {
     height: 50vh;
     width: 50vh;
 }
 
-#france {
+#europe {
     height: 50vh;
     width: 50vh;
 }
 
-#italy {
+#namerica {
     height: 50vh;
     width: 50vh;
 }
 
-#nj {
+#samerica {
     height: 50vh;
     width: 50vh;
 }
 
-#israel {
+#australia {
     height: 50vh;
     width: 50vh;
 }
 
-#germany {
+#antactica {
+    height: 50vh;
+    width: 50vh;
+}
+
+#africa {
     height: 50vh;
     width: 50vh;
 }
