@@ -5,7 +5,6 @@ html {
 
 .continents {
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-between;
     align-content: space-between;
     max-width: 1300px;
@@ -15,6 +14,13 @@ html {
     padding: 20px, 50px;
 }
 
+.main-column {
+    flex: 1;
+}
+
+.second-column {
+    flex: 1;
+}
 #header {
     padding: 3px;
     margin-left: 2%;
