@@ -8,6 +8,11 @@ html {
     flex-wrap: wrap;
     justify-content: space-between;
     align-content: space-between;
+    max-width: 1300px;
+    background-color: olivedrab;
+    margin: 40px auto 0 auto;
+    line-height: 1.65;
+    padding: 20px, 50px;
 }
 
 #header {
