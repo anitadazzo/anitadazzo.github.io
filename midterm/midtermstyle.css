@@ -53,14 +53,3 @@ html {
     width: 50vh;
 }
 
-.continents {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 3px;
-    margin-left: 2%;
-    margin-top: 15px;
-    color: #000000;
-    text-align: center;
-    justify-content: space-around;
-  }
