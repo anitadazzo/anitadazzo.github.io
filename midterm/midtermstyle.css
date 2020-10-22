@@ -48,7 +48,7 @@ h1 {
 }
 .yosemite
 {
-    grid-column: 1;
+    grid-column: 3;
     grid-row: 2 / span 2;
     margin: 5%;
     display: flex;
