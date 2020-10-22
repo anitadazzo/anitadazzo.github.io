@@ -1,12 +1,11 @@
 html {
     background-color: lightblue;
     margin: 20px;
-
-    h1 {
-        color: #0a0e44;
-        font-size: 100px;
-    }
-  }
+}
+h1 {
+    color: #0a0e44;
+    font-size: 100px;
+}
 
 .form-row {
     padding: 10px 0;
