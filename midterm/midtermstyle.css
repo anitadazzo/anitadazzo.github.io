@@ -23,7 +23,7 @@ h1 {
 
 .continents {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-around;
     align-content: space-around;
     max-width: 2000px;
