@@ -36,6 +36,18 @@ body {
     color: #0a0e44;
     font-size: 20px;
 }
+.namericaplaces {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    align-content: space-around;
+    line-height: 1.65;
+    padding: 50px, 50px;
+    justify-content: center;
+    color: #0a0e44;
+    font-size: 20px;
+}
 
 .first-column {
     flex: 1;
@@ -92,6 +104,22 @@ body {
 }
 
 #africa {
+    height: 50vh;
+    width: 50vh;
+}
+#yosemite {
+    height: 50vh;
+    width: 50vh;
+}
+#grandcanyon {
+    height: 50vh;
+    width: 50vh;
+}
+#centralpark {
+    height: 50vh;
+    width: 50vh;
+}
+#hollywood {
     height: 50vh;
     width: 50vh;
 }
