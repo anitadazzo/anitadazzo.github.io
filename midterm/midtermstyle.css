@@ -22,7 +22,7 @@ body {
     padding: 100px 0;
     display: flex;
     font-family: 'Fugaz One', cursive;
-    background-color: hotpink;
+    border:10px hotpink;
 }
 
 .form-row label{
