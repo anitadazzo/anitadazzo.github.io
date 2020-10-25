@@ -15,6 +15,7 @@ body {
 .yosemiteinfo {
     color: #0a0e44;
     font-size: 20px;
+    font-family: 'Fugaz One', cursive;
 }
 .form-row {
     padding: 100px 0;
@@ -43,6 +44,7 @@ body {
     justify-content: center;
     color: #0a0e44;
     font-size: 20px;
+    font-family: 'Fugaz One', cursive;
 }
 .namericaplaces {
     display: flex;
@@ -55,6 +57,7 @@ body {
     justify-content: center;
     color: #0a0e44;
     font-size: 20px;
+    font-family: 'Fugaz One', cursive;
 }
 .yosemitestuff {
     display: flex;
@@ -67,6 +70,7 @@ body {
     justify-content: center;
     color: #0a0e44;
     font-size: 20px;
+    font-family: 'Fugaz One', cursive;
 }
 .first-column {
     flex: 1;
@@ -92,6 +96,7 @@ body {
     display: flex;
     align-items: center;
     text-align: center;
+    font-family: 'Fugaz One', cursive;
 }
 #asia {
     height: 50vh;
