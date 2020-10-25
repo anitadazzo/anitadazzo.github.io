@@ -6,13 +6,17 @@ h1 {
     color: #0a0e44;
     font-size: 50px;
     font-family: 'Fugaz One', cursive;
-    border:10px hotpink;
+    border-style: dotted;
+    border-width: medium;
+    border-color: hotpink;
 }
 body {
     color: #0a0e44;
     font-size: 20px;
     font-family: 'Fugaz One', cursive;
-    border: 50px hotpink;
+    border-style: dotted;
+    border-width: medium;
+    border-color: hotpink;
 }
 .yosemiteinfo {
     color: #0a0e44;
@@ -23,7 +27,9 @@ body {
     padding: 100px 0;
     display: flex;
     font-family: 'Fugaz One', cursive;
-    border:10px hotpink;
+    border-style: dotted;
+    border-width: medium;
+    border-color: hotpink;
 }
 
 .form-row label{
@@ -50,7 +56,7 @@ body {
     color: #0a0e44;
     font-size: 20px;
     font-family: 'Fugaz One', cursive;
-    
+}   
 .namericaplaces {
     display: flex;
     flex-direction: row;
