@@ -19,6 +19,7 @@ body {
 .form-row {
     padding: 100px 0;
     display: flex;
+    font-family: 'Fugaz One', cursive;
 }
 
 .form-row label{
@@ -28,6 +29,7 @@ body {
 
 .form-row input {
     flex: 1;
+    font-family: 'Fugaz One', cursive;
 }
 
 .continents {
