@@ -6,7 +6,7 @@ h1 {
     color: #0a0e44;
     font-size: 50px;
     font-family: 'Fugaz One', cursive;
-    border-style: dotted;
+    border-style: double;
     border-width: medium;
     border-color: hotpink;
 }
@@ -14,10 +14,7 @@ body {
     color: #0a0e44;
     font-size: 20px;
     font-family: 'Fugaz One', cursive;
-    border-style: dotted;
-    border-width: medium;
-    border-color: hotpink;
-}
+}   
 .yosemiteinfo {
     color: #0a0e44;
     font-size: 20px;
@@ -27,9 +24,6 @@ body {
     padding: 100px 0;
     display: flex;
     font-family: 'Fugaz One', cursive;
-    border-style: dotted;
-    border-width: medium;
-    border-color: hotpink;
 }
 
 .form-row label{
@@ -112,7 +106,7 @@ body {
 #asia {
     height: 50vh;
     width: 50vh;
-    border-style: dotted;
+    border-style: double;
     border-width: medium;
     border-color: hotpink;
 }
@@ -120,45 +114,75 @@ body {
 #europe {
     height: 50vh;
     width: 50vh;
+    border-style: double;
+    border-width: medium;
+    border-color: hotpink;
 }
 
 #namerica {
     height: 50vh;
     width: 50vh;
+    border-style: double;
+    border-width: medium;
+    border-color: hotpink;
 }
 
 #samerica {
     height: 50vh;
     width: 50vh;
+    border-style: double;
+    border-width: medium;
+    border-color: hotpink;
 }
 
 #australia {
     height: 50vh;
     width: 50vh;
+    border-style: double;
+    border-width: medium;
+    border-color: hotpink;
 }
 
 #antarctica {
     height: 50vh;
     width: 50vh;
+    border-style: double;
+    border-width: medium;
+    border-color: hotpink;
 }
 
 #africa {
     height: 50vh;
     width: 50vh;
+    border-style: double;
+    border-width: medium;
+    border-color: hotpink;
 }
 #yosemite {
     height: 50vh;
     width: 50vh;
+    border-style: double;
+    border-width: medium;
+    border-color: hotpink;
 }
 #grandcanyon {
     height: 50vh;
     width: 50vh;
+    border-style: double;
+    border-width: medium;
+    border-color: hotpink;
 }
 #centralpark {
     height: 50vh;
     width: 50vh;
+    border-style: double;
+    border-width: medium;
+    border-color: hotpink;
 }
 #hollywood {
     height: 50vh;
     width: 50vh;
+    border-style: double;
+    border-width: medium;
+    border-color: hotpink;
 }
