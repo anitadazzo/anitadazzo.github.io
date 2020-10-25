@@ -33,6 +33,8 @@ body {
 .form-row input {
     flex: 1;
     font-family: 'Fugaz One', cursive;
+    color: #0a0e44;
+    font-size: 20px;
 }
 
 .continents {
