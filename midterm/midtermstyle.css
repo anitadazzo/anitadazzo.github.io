@@ -211,3 +211,6 @@ body {
   .container:hover .overlay {
     opacity: 1;
   }
+  .fa-user:hover {
+    background-image: url('pics/heart.png');
+  }
