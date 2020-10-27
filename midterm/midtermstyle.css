@@ -251,3 +251,14 @@ body {
     font-size: 35px;
     padding: 20px;
 }
+.options{
+    font-family: 'Fugaz One', cursive;
+    background-color: white;
+    border: none;
+    color: hotpink;
+    padding: 2px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px;
+}
