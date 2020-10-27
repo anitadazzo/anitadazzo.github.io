@@ -191,12 +191,12 @@ body {
     position: relative;
     width: 100%;
     max-width: 400px;
-  }
-  .image {
+}
+.image {
     width: 100%;
     height: auto;
-  }
-  .overlay {
+}
+.overlay {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -207,14 +207,14 @@ body {
     opacity: 0;
     transition: .3s ease;
     background-image: url('pics/heart.png');
-  }
-  .container:hover .overlay {
+}
+.container:hover .overlay {
     opacity: 1;
-  }
-  .fa-user:hover {
+}
+.fa-user:hover {
     background-image: url('pics/heart.png');
   }
-  .icon {
+.icon {
     color: white;
     font-size: 100px;
     position: absolute;
@@ -223,8 +223,8 @@ body {
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     text-align: center;
-  }
-  .button {
+}
+.button {
     background-color: hotpink;
     color: #0a0e44;
     padding: 15px 32px;
@@ -234,7 +234,7 @@ body {
     margin: 4px 2px;
     cursor: pointer;
     text-decoration: none;
-  }
+}
 .stuff {
     margin-top: 100px;
     display: flex;
