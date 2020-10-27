@@ -221,9 +221,9 @@ body {
 }
 .options{
     font-family: 'Fugaz One', cursive;
-    background-color: white;
+    background-color: hotpink;
     border: none;
-    color: hotpink;
+    color: #0a0e44;
     padding: 2px;
     text-decoration: none;
     display: inline-block;
