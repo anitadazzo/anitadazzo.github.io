@@ -75,7 +75,6 @@ body {
     text-align: center;
     font-family: 'Fugaz One', cursive;
     font-size: 30px;
-    
 }
 .yosemite
 {
@@ -214,4 +213,20 @@ body {
     margin: 4px 2px;
     cursor: pointer;
     text-decoration: none;
+}
+.stuff {
+    padding: 20px;
+    font-family: 'Fugaz One', cursive;
+    color: hotpink;
+}
+.options{
+    font-family: 'Fugaz One', cursive;
+    background-color: white;
+    border: none;
+    color: hotpink;
+    padding: 2px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px;
 }
