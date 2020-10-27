@@ -47,6 +47,84 @@ body {
     font-size: 20px;
     font-family: 'Fugaz One', cursive;
 }
+.samericaplaces {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    align-content: space-around;
+    line-height: 1.65;
+    padding: 50px, 50px;
+    justify-content: center;
+    color: #0a0e44;
+    font-size: 20px;
+    font-family: 'Fugaz One', cursive;
+}
+.antarcticaplaces {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    align-content: space-around;
+    line-height: 1.65;
+    padding: 50px, 50px;
+    justify-content: center;
+    color: #0a0e44;
+    font-size: 20px;
+    font-family: 'Fugaz One', cursive;
+}
+.asiaplaces {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    align-content: space-around;
+    line-height: 1.65;
+    padding: 50px, 50px;
+    justify-content: center;
+    color: #0a0e44;
+    font-size: 20px;
+    font-family: 'Fugaz One', cursive;
+}
+.australiaplaces {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    align-content: space-around;
+    line-height: 1.65;
+    padding: 50px, 50px;
+    justify-content: center;
+    color: #0a0e44;
+    font-size: 20px;
+    font-family: 'Fugaz One', cursive;
+}
+.europeplaces {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    align-content: space-around;
+    line-height: 1.65;
+    padding: 50px, 50px;
+    justify-content: center;
+    color: #0a0e44;
+    font-size: 20px;
+    font-family: 'Fugaz One', cursive;
+}
+.africaplaces {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    align-content: space-around;
+    line-height: 1.65;
+    padding: 50px, 50px;
+    justify-content: center;
+    color: #0a0e44;
+    font-size: 20px;
+    font-family: 'Fugaz One', cursive;
+}
 .yosemitestuff {
     display: flex;
     flex-direction: row;
