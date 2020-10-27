@@ -13,6 +13,56 @@
     </h1>
     <body>
     <div class= "header">
+
+
+
+      <script>
+        // function to redirect to continent page
+        function where()
+        {
+            var place = document.getElementById("whichcontinent").value;
+            if (place == "North America")
+            {
+              document.getElementById("goToContinent").action = "namerica.html";
+            }
+            else if (place == "South America")
+            {
+              document.getElementById("goToContinent").action = "samerica.html";
+            }
+            else if (place == "Asia")
+            {
+              document.getElementById("goToContinent").action = "asia.html";
+            }
+            else if (place == "Australia")
+            {
+              document.getElementById("goToContinent").action = "australia.html";
+            }
+            else if (place == "Africa")
+            {
+              document.getElementById("goToContinent").action = "africa.html";
+            }
+            else if ((place == "Antarctica")
+            {
+              document.getElementById("goToContinent").action = "antarctica.html";
+            }
+            else if (place == "Europe")
+            {
+              document.getElementById("goToContinent").action = "europe.html";
+            }
+        }
+    </script>
+
+    <input class="options" type="submit" onclick="where()">
+
+
+
+
+
+
+
+
+
+
         <form action="">
             <div class="form-row">
                 <label for="where"><center>where are you going?</center></label>
