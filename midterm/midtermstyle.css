@@ -235,3 +235,19 @@ body {
     cursor: pointer;
     text-decoration: none;
   }
+  .stuff {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: 800px;
+    height: 400px;
+    padding: 20px;
+}
+.prompt {
+    justify-content: center;
+    color: hotpink;
+    font-size: 35px;
+    padding: 20px;
+}
