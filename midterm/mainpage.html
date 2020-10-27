@@ -11,58 +11,60 @@
     <h1>
       <CENTER>YOU CAN TRAVEL ANYWHERE IN THE WORLD</CENTER>
     </h1>
-    <body>
-    <div class= "header">
 
-
-
-      <script>
-        // function to redirect to continent page
-        function where()
-        {
-            var place = document.getElementById("whichcontinent").value;
-            if (place == "North America")
-            {
-              document.getElementById("goToContinent").action = "namerica.html";
-            }
-            else if (place == "South America")
-            {
-              document.getElementById("goToContinent").action = "samerica.html";
-            }
-            else if (place == "Asia")
-            {
-              document.getElementById("goToContinent").action = "asia.html";
-            }
-            else if (place == "Australia")
-            {
-              document.getElementById("goToContinent").action = "australia.html";
-            }
-            else if (place == "Africa")
-            {
-              document.getElementById("goToContinent").action = "africa.html";
-            }
-            else if (place == "Antarctica")
-            {
-              document.getElementById("goToContinent").action = "antarctica.html";
-            }
-            else if (place == "Europe")
-            {
-              document.getElementById("goToContinent").action = "europe.html";
-            }
-        }
+    <script>
+      // function to redirect to continent page
+      function where()
+      {
+          var place = document.getElementById("whichcontinent").value;
+          if (place == "North America")
+          {
+            document.getElementById("goToContinent").action = "namerica.html";
+          }
+          else if (place == "South America")
+          {
+            document.getElementById("goToContinent").action = "samerica.html";
+          }
+          else if (place == "Asia")
+          {
+            document.getElementById("goToContinent").action = "asia.html";
+          }
+          else if (place == "Australia")
+          {
+            document.getElementById("goToContinent").action = "australia.html";
+          }
+          else if (place == "Africa")
+          {
+            document.getElementById("goToContinent").action = "africa.html";
+          }
+          else if (place == "Antarctica")
+          {
+            document.getElementById("goToContinent").action = "antarctica.html";
+          }
+          else if (place == "Europe")
+          {
+            document.getElementById("goToContinent").action = "europe.html";
+          }
+      }
     </script>
 
-    <input class="options" type="submit" onclick="where()">
-
-
-
-
-
-
-
-
-
-
+    <body>
+      <div class="stuff">
+        <div class="prompt">where are you going?</div>
+        <br>
+        <form id="goToContinent" action="error.html">
+            <select class="options" name="whichContinent" id="whichcontinent">
+                <option class="monthOpt">North America</option>
+                <option class="monthOpt">South America</option>
+                <option class="monthOpt">Australia</option>
+                <option class="monthOpt">Europe</option>
+                <option class="monthOpt">Asia</option>
+                <option class="monthOpt">Antarctica</option>
+                <option class="monthOpt">Africa</option>
+            </select>
+            <input class="options" type="submit" onclick="where()">
+            
+    <div class= "header">
         <form action="">
             <div class="form-row">
                 <label for="where"><center>where are you going?</center></label>
