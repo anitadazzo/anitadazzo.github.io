@@ -198,10 +198,6 @@ body {
 }
 .overlay {
     position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
     height: 100%;
     width: 100%;
     opacity: 0;
@@ -234,33 +230,4 @@ body {
     margin: 4px 2px;
     cursor: pointer;
     text-decoration: none;
-}
-.stuff {
-    margin-top: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    max-width: 800px;
-    height: 400px;
-    padding: 20px;
-    font-family: 'Fugaz One', cursive;
-    color: hotpink;
-}
-.prompt {
-    justify-content: center;
-    color: hotpink;
-    font-size: 35px;
-    padding: 20px;
-}
-.options{
-    font-family: 'Fugaz One', cursive;
-    background-color: white;
-    border: none;
-    color: hotpink;
-    padding: 2px;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 25px;
-    margin: 4px;
 }
