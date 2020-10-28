@@ -101,40 +101,6 @@ body {
     border-width: thick;
     border-color: hotpink;
 }
-
-.container {
-    position: relative;
-    width: 100%;
-    max-width: 400px;
-}
-.image {
-    width: 100%;
-    height: auto;
-}
-.overlay {
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    opacity: 0;
-    transition: .3s ease;
-    background-image: url('pics/heart.png');
-}
-.container:hover .overlay {
-    opacity: 1;
-}
-.fa-user:hover {
-    background-image: url('pics/heart.png');
-  }
-.icon {
-    color: white;
-    font-size: 100px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    text-align: center;
-}
 .button {
     background-color: hotpink;
     color: #0a0e44;
