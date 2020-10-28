@@ -15,11 +15,6 @@ body {
     font-size: 20px;
     font-family: 'Fugaz One', cursive;
 }   
-.yosemiteinfo {
-    color: #0a0e44;
-    font-size: 20px;
-    font-family: 'Fugaz One', cursive;
-}
 
 .continents {
     display: flex;
@@ -125,19 +120,7 @@ body {
     font-size: 20px;
     font-family: 'Fugaz One', cursive;
 }
-.yosemitestuff {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    justify-content: center;
-    align-content: space-around;
-    line-height: 1.65;
-    padding: 50px, 50px;
-    justify-content: center;
-    color: #0a0e44;
-    font-size: 20px;
-    font-family: 'Fugaz One', cursive;
-}
+
 .first-column {
     flex: 1;
 }
@@ -220,62 +203,7 @@ body {
     border-width: thick;
     border-color: hotpink;
 }
-#yosemite {
-    height: 50vh;
-    width: 50vh;
-    border-style: double;
-    border-width: thick;
-    border-color: hotpink;
-}
-#grandcanyon {
-    height: 50vh;
-    width: 50vh;
-    border-style: double;
-    border-width: thick;
-    border-color: hotpink;
-}
-#centralpark {
-    height: 50vh;
-    width: 50vh;
-    border-style: double;
-    border-width: thick;
-    border-color: hotpink;
-}
-#hollywood {
-    height: 50vh;
-    width: 50vh;
-    border-style: double;
-    border-width: thick;
-    border-color: hotpink;
-}
-#aroador {
-    height: 50vh;
-    width: 50vh;
-    border-style: double;
-    border-width: thick;
-    border-color: hotpink;
-}
-#caminto {
-    height: 50vh;
-    width: 50vh;
-    border-style: double;
-    border-width: thick;
-    border-color: hotpink;
-}
-#maracana {
-    height: 50vh;
-    width: 50vh;
-    border-style: double;
-    border-width: thick;
-    border-color: hotpink;
-}
-#matchupicchu {
-    height: 50vh;
-    width: 50vh;
-    border-style: double;
-    border-width: thick;
-    border-color: hotpink;
-}
+
 .container {
     position: relative;
     width: 100%;
