@@ -15,7 +15,7 @@ body {
     font-size: 20px;
     font-family: 'Fugaz One', cursive;
 }   
-.asia {
+.asiaplaces {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
