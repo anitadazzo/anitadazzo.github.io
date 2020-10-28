@@ -15,7 +15,7 @@ body {
     font-size: 20px;
     font-family: 'Fugaz One', cursive;
 }   
-.africaaplaces {
+.africaplaces {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
