@@ -1,0 +1,146 @@
+html {
+    background-color: lightblue;
+    margin: 20px;
+}
+h1 {
+    color: #0a0e44;
+    font-size: 50px;
+    font-family: 'Fugaz One', cursive;
+    border-style: double;
+    border-width: thick;
+    border-color: hotpink;
+}
+body {
+    color: #0a0e44;
+    font-size: 20px;
+    font-family: 'Fugaz One', cursive;
+}
+.button {
+    background-color: hotpink;
+    color: #0a0e44;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.first-column {
+    flex: 1;
+}
+
+.second-column {
+    flex: 1;
+}
+.arpoadorstuff {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    align-content: space-around;
+    line-height: 1.65;
+    padding: 50px, 50px;
+    justify-content: center;
+    color: #0a0e44;
+    font-size: 20px;
+    font-family: 'Fugaz One', cursive;
+}
+.arpoadorinfo {
+    color: #0a0e44;
+    font-size: 20px;
+    font-family: 'Fugaz One', cursive;
+}
+.arpoador
+{
+    grid-column: 3;
+    grid-row: 2 / span 2;
+    margin: 5%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: 'Fugaz One', cursive;
+}
+.caminitostuff {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    align-content: space-around;
+    line-height: 1.65;
+    padding: 50px, 50px;
+    justify-content: center;
+    color: #0a0e44;
+    font-size: 20px;
+    font-family: 'Fugaz One', cursive;
+}
+.caminitoinfo {
+    color: #0a0e44;
+    font-size: 20px;
+    font-family: 'Fugaz One', cursive;
+}
+.caminito
+{
+    grid-column: 3;
+    grid-row: 2 / span 2;
+    margin: 5%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: 'Fugaz One', cursive;
+}
+.maracanastuff {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    align-content: space-around;
+    line-height: 1.65;
+    padding: 50px, 50px;
+    justify-content: center;
+    color: #0a0e44;
+    font-size: 20px;
+    font-family: 'Fugaz One', cursive;
+}
+.maracanainfo {
+    color: #0a0e44;
+    font-size: 20px;
+    font-family: 'Fugaz One', cursive;
+}
+.maracana
+{
+    grid-column: 3;
+    grid-row: 2 / span 2;
+    margin: 5%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: 'Fugaz One', cursive;
+}
+.matchupicchustuff {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    align-content: space-around;
+    line-height: 1.65;
+    padding: 50px, 50px;
+    justify-content: center;
+    color: #0a0e44;
+    font-size: 20px;
+    font-family: 'Fugaz One', cursive;
+}
+.matchupicchuinfo {
+    color: #0a0e44;
+    font-size: 20px;
+    font-family: 'Fugaz One', cursive;
+}
+.matchupicchu {
+    grid-column: 3;
+    grid-row: 2 / span 2;
+    margin: 5%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: 'Fugaz One', cursive;
+}
