@@ -248,6 +248,34 @@ body {
     border-width: thick;
     border-color: hotpink;
 }
+#aroador {
+    height: 50vh;
+    width: 50vh;
+    border-style: double;
+    border-width: thick;
+    border-color: hotpink;
+}
+#caminto {
+    height: 50vh;
+    width: 50vh;
+    border-style: double;
+    border-width: thick;
+    border-color: hotpink;
+}
+#maracana {
+    height: 50vh;
+    width: 50vh;
+    border-style: double;
+    border-width: thick;
+    border-color: hotpink;
+}
+#matchupicchu {
+    height: 50vh;
+    width: 50vh;
+    border-style: double;
+    border-width: thick;
+    border-color: hotpink;
+}
 .container {
     position: relative;
     width: 100%;
