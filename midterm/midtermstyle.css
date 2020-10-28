@@ -29,98 +29,6 @@ body {
     font-size: 20px;
     font-family: 'Fugaz One', cursive;
 }   
-.namericaplaces {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    justify-content: center;
-    align-content: space-around;
-    line-height: 1.65;
-    padding: 50px, 50px;
-    justify-content: center;
-    color: #0a0e44;
-    font-size: 20px;
-    font-family: 'Fugaz One', cursive;
-}
-.samericaplaces {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    justify-content: center;
-    align-content: space-around;
-    line-height: 1.65;
-    padding: 50px, 50px;
-    justify-content: center;
-    color: #0a0e44;
-    font-size: 20px;
-    font-family: 'Fugaz One', cursive;
-}
-.antarcticaplaces {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    justify-content: center;
-    align-content: space-around;
-    line-height: 1.65;
-    padding: 50px, 50px;
-    justify-content: center;
-    color: #0a0e44;
-    font-size: 20px;
-    font-family: 'Fugaz One', cursive;
-}
-.asiaplaces {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    justify-content: center;
-    align-content: space-around;
-    line-height: 1.65;
-    padding: 50px, 50px;
-    justify-content: center;
-    color: #0a0e44;
-    font-size: 20px;
-    font-family: 'Fugaz One', cursive;
-}
-.australiaplaces {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    justify-content: center;
-    align-content: space-around;
-    line-height: 1.65;
-    padding: 50px, 50px;
-    justify-content: center;
-    color: #0a0e44;
-    font-size: 20px;
-    font-family: 'Fugaz One', cursive;
-}
-.europeplaces {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    justify-content: center;
-    align-content: space-around;
-    line-height: 1.65;
-    padding: 50px, 50px;
-    justify-content: center;
-    color: #0a0e44;
-    font-size: 20px;
-    font-family: 'Fugaz One', cursive;
-}
-.africaplaces {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    justify-content: center;
-    align-content: space-around;
-    line-height: 1.65;
-    padding: 50px, 50px;
-    justify-content: center;
-    color: #0a0e44;
-    font-size: 20px;
-    font-family: 'Fugaz One', cursive;
-}
-
 .first-column {
     flex: 1;
 }
@@ -136,16 +44,6 @@ body {
     text-align: center;
     font-family: 'Fugaz One', cursive;
     font-size: 40px;
-}
-.yosemite
-{
-    grid-column: 3;
-    grid-row: 2 / span 2;
-    margin: 5%;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    font-family: 'Fugaz One', cursive;
 }
 #asia {
     height: 50vh;
