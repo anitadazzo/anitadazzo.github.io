@@ -15,6 +15,8 @@ button:hover {
     border: 5px solid rgb(0,0,0);
 }
 body {
-    background-color: rgb(63, 63, 160);
+    background-color: rgb(98, 98, 255);
     justify-content: center;
+    font-family: 'Secular One', sans-serif;
+    font-size: 30;
 }
