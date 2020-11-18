@@ -1,18 +1,13 @@
 body{
     font-family: 'Crete Round', serif;
-    display: flex;
-    justify-content: center;
 }
 h1{
     color: rgb(87, 28, 28);
     font-size: 100px;
-    display: flex;
-    justify-content: center;
 }
 h2{
     font-size: 75px;
-    display: flex;
-    justify-content: center;
+    
 }
 .order{
     font-family: 'Cedarville Cursive', cursive;
@@ -33,9 +28,10 @@ p{
     margin: 4px 2px;
     cursor: pointer;
     text-decoration: none;
-    display: flex;
-    justify-content: center;
+    
 }
 html{
-    background-color: tan
+    background-color: tan;
+    display: flex;
+    justify-content: center;
 }
