@@ -18,7 +18,7 @@ img{
 p{
     font-size: 50px;
 }
-.button {
+.onclick {
     background-color: rgb(87, 28, 28);
     color: tan;
     padding: 15px 32px;
