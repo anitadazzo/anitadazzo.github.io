@@ -4,6 +4,9 @@ body{
 h1{
     color: rgb(87, 28, 28);
     font-size: 100px;
+    border-style: double;
+    border-width: thick;
+    border-color: rgb(87, 28, 28);
 }
 h2{
     font-size: 75px;
