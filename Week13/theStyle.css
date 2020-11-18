@@ -1,15 +1,23 @@
 body{
     font-family: 'Crete Round', serif;
+    display: flex;
+    justify-content: center;
     }
     h1{
         color: rgb(87, 28, 28);
-        font-size: 50px;
+        font-size: 100px;
+    }
+    h2{
+        font-size: 75px;
     }
     .order{
         font-family: 'Cedarville Cursive', cursive;
     }
     img{
         width: 20px;
+    }
+    p{
+        font-size: 50px;
     }
 html{
     background-color: tan
