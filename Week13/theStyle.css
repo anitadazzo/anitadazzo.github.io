@@ -2,36 +2,40 @@ body{
     font-family: 'Crete Round', serif;
     display: flex;
     justify-content: center;
-    }
-    h1{
-        color: rgb(87, 28, 28);
-        font-size: 100px;
-    }
-    h2{
-        font-size: 75px;
-    }
-    .order{
-        font-family: 'Cedarville Cursive', cursive;
-    }
-    img{
-        width: 20px;
-    }
-    p{
-        font-size: 50px;
-    }
-    .button {
-        background-color: rgb(87, 28, 28);
-        color: tan;
-        padding: 15px 32px;
-        text-align: center;
-        display: inline-block;
-        font-size: 16px;
-        margin: 4px 2px;
-        cursor: pointer;
-        text-decoration: none;
-        display: flex;
-        justify-content: center;
-    }
+}
+h1{
+    color: rgb(87, 28, 28);
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+}
+h2{
+    font-size: 75px;
+    display: flex;
+    justify-content: center;
+}
+.order{
+    font-family: 'Cedarville Cursive', cursive;
+}
+img{
+    width: 20px;
+}
+p{
+    font-size: 50px;
+}
+.button {
+    background-color: rgb(87, 28, 28);
+    color: tan;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
 html{
     background-color: tan
 }
