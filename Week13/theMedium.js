@@ -22,6 +22,27 @@ function startGame() {
     myGameArea.start();
 }
 
+let cup = document.querySelector('.cup');
+let moveBy = 10;
+ 
+window.addEventListener('load', () => {
+    cup.style.position = 'absolute';
+    cup.style.left = 0;
+    cup.style.bottom = 0;
+});
+ 
+ 
+window.addEventListener('keyup', (e) => {
+    switch (e.key) {
+        case 'ArrowLeft':
+            cup.style.left = parseInt(cup.style.left) - moveBy + '.8px';
+            break;
+        case 'ArrowRight':
+            cup.style.left = parseInt(cup.style.left) + moveBy + '.8px';
+            break;
+    }
+});
+
 // using each() function to iterate through divs and push id of each div into array $objs
 var $objs = [];
 $('div').each(function(){

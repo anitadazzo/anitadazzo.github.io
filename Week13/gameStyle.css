@@ -1,0 +1,10 @@
+.cup{
+    height: 200px;
+    width: 227px;
+    background:url('images/cup.jpg');
+}
+html{
+    background-color: tan;
+    display: flex;
+    justify-content: center;
+}
