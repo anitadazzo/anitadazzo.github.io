@@ -1,12 +1,12 @@
 html {
-    background-color: lightblue;
+    background-color: lightpink;
     margin: 20px;
 }
 h1 {
     color: #0a0e44;
     font-size: 50px;
     font-family: 'Major Mono Display', monospace;
-    border-style: double;
+    border-style: dotted;
     border-width: thick;
     border-color: hotpink;
 }
