@@ -1,0 +1,17 @@
+html {
+    background-color: lightblue;
+    margin: 20px;
+}
+h1 {
+    color: #0a0e44;
+    font-size: 50px;
+    font-family: 'Fugaz One', cursive;
+    border-style: double;
+    border-width: thick;
+    border-color: hotpink;
+}
+body {
+    color: #0a0e44;
+    font-size: 20px;
+    font-family: 'Fugaz One', cursive;
+}   
