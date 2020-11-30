@@ -3,7 +3,7 @@ html {
     margin: 20px;
 }
 h1 {
-    color: #0a0e44;
+    color: white;
     font-size: 50px;
     font-family: 'Major Mono Display', monospace;
     border-style: dotted;
@@ -12,7 +12,7 @@ h1 {
     padding: 20px;
 }
 body {
-    color: #0a0e44;
+    color: white;
     font-size: 20px;
     font-family: 'Quicksand', sans-serif;
 }   
