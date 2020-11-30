@@ -15,6 +15,7 @@ body {
     border-style: dotted;
     border-width: thick;
     border-color: hotpink;
+    padding: 20px;
 }   
 button {
     background-color: rgb(255, 208, 215);
