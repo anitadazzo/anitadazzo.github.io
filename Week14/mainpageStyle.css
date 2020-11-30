@@ -1,0 +1,66 @@
+html {
+    background-color: rgb(255, 208, 215);
+    margin: 20px;
+}
+h1 {
+    color: white;
+    font-size: 50px;
+    font-family: 'Major Mono Display', monospace;
+    border-style: dotted;
+    border-width: thick;
+    border-color: hotpink;
+    padding: 20px;
+}
+body {
+    color: white;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+}   
+.cakeFlavors {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-content: center;
+    align-content: space-around;
+    line-height: 1.65;
+    padding: 50px, 50px;
+    justify-content: center;
+    color: #0a0e44;
+    font-size: 20px;
+    font-family: 'Fugaz One', cursive;
+}
+.first-column {
+    flex: 1;
+}
+
+.second-column {
+    flex: 1;
+}
+#vanilla {
+    height: 50vh;
+    width: 50vh;
+    border-style: dotted;
+    border-width: thick;
+    border-color: hotpink;
+}
+#chocolate {
+    height: 50vh;
+    width: 50vh;
+    border-style: dotted;
+    border-width: thick;
+    border-color: hotpink;
+}
+#redvelvet {
+    height: 50vh;
+    width: 50vh;
+    border-style: dotted;
+    border-width: thick;
+    border-color: hotpink;
+}
+#carrot {
+    height: 50vh;
+    width: 50vh;
+    border-style: dotted;
+    border-width: thick;
+    border-color: hotpink;
+}
