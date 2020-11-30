@@ -16,3 +16,15 @@ body {
     font-size: 20px;
     font-family: 'Quicksand', sans-serif;
 }   
+button {
+    background-color: rgb(255, 208, 215);
+    color: hotpink;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
