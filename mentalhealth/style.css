@@ -1,0 +1,12 @@
+h2{
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black;
+}
+
+html{
+    background-image: url("cheetah.jpg");
+
+}
