@@ -15,9 +15,8 @@ body{
     border-style: solid;
     border-width: thick;
     border-color: orange;
-    width: 700px;
-    height: 5500px;
-    padding: 20px;
+    width: 500px;
+    height: 400px;
 }
 h1{
     padding:30px;
