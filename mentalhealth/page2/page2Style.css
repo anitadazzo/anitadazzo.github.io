@@ -7,6 +7,9 @@ h2{
 }
 body{
     background-color: white;
+    border-style: solid;
+    border-width: thick;
+    border-color: orange;
 }
 html{
     background-image: url("cheetah.jpg");
@@ -18,7 +21,7 @@ html{
     border-color: orange;
 }
 h1{
-    padding:100px;
+    padding:30px;
 }
 button {
     background-color: rgb(218, 37, 148);
