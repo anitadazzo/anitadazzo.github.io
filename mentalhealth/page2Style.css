@@ -3,6 +3,10 @@ html{
     background-image: url("pics/cheetah.jpg");
     font-family: 'Titan One', cursive;
 }
+body{
+    background-image: url("pics/cheetah.jpg");
+    font-family: 'Titan One', cursive;
+}
 #schedule{
     border-style: solid;
     border-width: thick;
