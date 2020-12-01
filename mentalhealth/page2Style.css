@@ -16,6 +16,7 @@ body{
     border-style: solid;
     border-width: thick;
     border-color: orange;
+    padding:20px;
 }
 h1{
     padding:30px;
