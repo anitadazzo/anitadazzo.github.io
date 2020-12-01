@@ -15,7 +15,7 @@ html{
     background-image: url("cheetah.jpg");
     font-family: 'Titan One', cursive;
 }
-#enteryourschedule{
+#schedule{
     border-style: solid;
     border-width: thick;
     border-color: orange;
