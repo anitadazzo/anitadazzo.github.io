@@ -5,12 +5,14 @@ h2{
     color: white;
     background-color: black;
 }
-
+body{
+    background-color: white;
+}
 html{
     background-image: url("cheetah.jpg");
     font-family: 'Titan One', cursive;
 }
-#letsbeproductive{
+#enteryourschedule{
     border-style: solid;
     border-width: thick;
     border-color: orange;
