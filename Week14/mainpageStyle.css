@@ -1,20 +1,19 @@
 html {
     background-color: rgb(255, 208, 215);
     margin: 20px;
+    background-image: url("pics/sprinkles.jpg");
 }
-h1 {
-    color: white;
-    font-size: 50px;
-    font-family: 'Major Mono Display', monospace;
-    border-style: dotted;
-    border-width: thick;
-    border-color: hotpink;
-    padding: 20px;
+h2 {
+    color:white;
+    font-size: 30px;
+    padding: 5px;
+    background-color: purple;
+    font-family: 'Coda Caption', sans-serif;
 }
 body {
     color: white;
     font-size: 20px;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Coda Caption', sans-serif;
 }   
 .cakeFlavors {
     display: flex;
@@ -25,9 +24,10 @@ body {
     line-height: 1.65;
     padding: 50px, 50px;
     justify-content: center;
-    color: white;
+    color: PURPLE;
     font-size: 20px;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Coda Caption', sans-serif;
+
 }
 .first-column {
     flex: 1;
@@ -39,28 +39,28 @@ body {
 #vanilla {
     height: 50vh;
     width: 50vh;
-    border-style: dotted;
+    border-style: ridge;
     border-width: thick;
-    border-color: hotpink;
+    border-color: purple;
 }
 #chocolate {
     height: 50vh;
     width: 50vh;
-    border-style: dotted;
+    border-style: ridge;
     border-width: thick;
-    border-color: hotpink;
+    border-color: purple;
 }
 #redvelvet {
     height: 50vh;
     width: 50vh;
-    border-style: dotted;
+    border-style: ridge;
     border-width: thick;
-    border-color: hotpink;
+    border-color: purple;
 }
 #carrot {
     height: 50vh;
     width: 50vh;
-    border-style: dotted;
+    border-style: ridge;
     border-width: thick;
-    border-color: hotpink;
+    border-color: purple;
 }

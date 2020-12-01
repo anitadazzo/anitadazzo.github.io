@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(255, 208, 215);
+    margin: 20px;
+    background-image: url("pics/sprinkles.jpg");
+}
+h2 {
+    color:white;
+    font-size: 30px;
+    padding: 5px;
+    background-color: purple;
+    font-family: 'Coda Caption', sans-serif;
+}
+body {
+    color: white;
+    font-size: 20px;
+    font-family: 'Coda Caption', sans-serif;
+}   
+
+}
+.first-column {
+    flex: 1;
+}
+
+.second-column {
+    flex: 1;
+}
+.square {
+    height: 100px;
+    width: 50px;
+    background-color: purple;
