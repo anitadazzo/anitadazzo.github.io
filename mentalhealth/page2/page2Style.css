@@ -7,9 +7,7 @@ h2{
 }
 body{
     background-color: white;
-    border-style: solid;
-    border-width: thick;
-    border-color: orange;
+    
 }
 html{
     background-image: url("pics/cheetah.jpg");
@@ -40,4 +38,9 @@ button {
     border-width: thin;
     border-color: BLACK;
     font-family: 'Titan One', cursive;
+}
+#schedule{
+    border-style: solid;
+    border-width: thick;
+    border-color: orange;
 }
