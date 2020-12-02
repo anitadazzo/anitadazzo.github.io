@@ -16,7 +16,7 @@ body{
     border-width: thick;
     border-color: orange;
 }
-h2 {
+.p1 {
     color:black;
     font-size: 30px;
     padding: 5px;
@@ -26,6 +26,15 @@ h2 {
     border-width: thick;
     border-color: orange;
 }
+.p1 {
+    color:black;
+    font-size: 30px;
+    padding: 5px;
+    background-color: white;
+    font-family: 'Carter One', cursive;
+    border-style: solid;
+    border-width: thick;
+    border-color: orange;
 }
 #outofbed{
     border-style: solid;
