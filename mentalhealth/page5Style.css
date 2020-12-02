@@ -26,6 +26,7 @@ h1{
 }
 button {
     background-color: rgb(218, 37, 148);
+    
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -63,3 +64,6 @@ button {
 .second-column {
     flex: 1;
 }
+a {
+    color: white;
+  }
