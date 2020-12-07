@@ -24,7 +24,7 @@ body {
     padding: 20px;
 }
 .square {
-    height: 750px;
+    height: 1050px;
     width: 370px;
     background-color: rgb(53, 5, 85);
     flex-direction: column;
@@ -36,7 +36,7 @@ body {
 }
 .ingredients{
     max-width: 1000px;
-    height: 300px;
+    height: 290px;
     background-color: rgb(192, 24, 141);
     position: relative;
     margin-bottom: -750px;
@@ -47,14 +47,15 @@ body {
 }
 .bowl{
     position: relative;
-    margin-top: 325px;
-    margin-left: 330px;
-    max-width: 1500px;
-    max-height: 1500px;
-    flex-direction: column;
+    margin-top: 380px;
+    margin-right: 130px;
+    width: 700px;
+    height: 700px;
     float: right;
     overflow: hidden;
-
+    border-style: solid;
+    border-width: thick;
+    border-color: rgb(53, 5, 85);
 }
 .grid {
     display: grid;
@@ -70,4 +71,87 @@ body {
     max-width: 60%;
     margin-top: 3px;
     margin-left: 20px;
+}
+.hidden {
+    display: none;
+  }
+
+.bakingsoda2{
+    position: relative;
+    margin-top: 380px;
+    margin-right: 130px;
+    float: right;
+    overflow: hidden;
+}
+
+.sugar2{
+    position: relative;
+    margin-top: 380px;
+    margin-right: 130px;
+    float: right;
+    overflow: hidden;
+}
+
+.flour2{
+    position: relative;
+    margin-top: 380px;
+    margin-right: 130px;
+    float: right;
+    overflow: hidden;
+}
+
+.eggs2{
+    position: relative;
+    margin-top: 380px;
+    margin-right: 130px;
+    float: right;
+    overflow: hidden;
+}
+
+.milk2{
+    position: relative;
+    margin-top: 380px;
+    margin-right: 130px;
+    float: right;
+    overflow: hidden;
+}
+
+.vanilla2{
+    position: relative;
+    margin-top: 380px;
+    margin-right: 130px;
+    float: right;
+    overflow: hidden;
+}
+
+.carrot2{
+    position: relative;
+    margin-top: 380px;
+    margin-right: 130px;
+    float: right;
+    overflow: hidden;
+}
+
+.chocolate2{
+    position: relative;
+    margin-top: 380px;
+    margin-right: 130px;
+    float: right;
+    overflow: hidden;
+}
+
+.butter2{
+    position: relative;
+    margin-top: 380px;
+    margin-right: 130px;
+    float: right;
+    overflow: hidden;
+}
+
+.lemon2{
+    position: relative;
+    margin-top: 380px;
+    margin-right: 130px;
+    float: right;
+    overflow: hidden;
 }
