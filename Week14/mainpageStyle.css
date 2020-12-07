@@ -7,7 +7,7 @@ h2 {
     color:white;
     font-size: 30px;
     padding: 5px;
-    background-color: purple;
+    background-color: rgb(53, 5, 85);
     font-family: 'Coda Caption', sans-serif;
 }
 body {
@@ -24,7 +24,7 @@ body {
     line-height: 1.65;
     padding: 50px, 50px;
     justify-content: center;
-    color: PURPLE;
+    color: rgb(53, 5, 85);
     font-size: 20px;
     font-family: 'Coda Caption', sans-serif;
 
@@ -39,32 +39,33 @@ body {
 #vanilla {
     height: 50vh;
     width: 50vh;
-    border-style: ridge;
+    border-style: solid;
     border-width: thick;
-    border-color: purple;
+    border-color: rgb(53, 5, 85);
 }
 #chocolate {
     height: 50vh;
     width: 50vh;
-    border-style: ridge;
+    border-style: solid;
     border-width: thick;
-    border-color: purple;
+    border-color: rgb(53, 5, 85);
 }
 #redvelvet {
     height: 50vh;
     width: 50vh;
-    border-style: ridge;
+    border-style: solid;
     border-width: thick;
-    border-color: purple;
+    border-color: rgb(53, 5, 85);
 }
 #carrot {
     height: 50vh;
     width: 50vh;
-    border-style: ridge;
+    border-style: solid;
     border-width: thick;
-    border-color: purple;
+    border-color: rgb(53, 5, 85);
 }
 #header{
     border-style: solid;
     border-width: thick;
-    border-color: purple;
+    border-color: rgb(53, 5, 85) rgb(192, 24, 141);
+}
