@@ -15,26 +15,48 @@ body {
     font-size: 20px;
     font-family: 'Coda Caption', sans-serif;
 }   
-
-}
-.first-column {
-    flex: 1;
-}
-
-.second-column {
-    flex: 1;
+.title{
+    padding: 20px;
 }
 .square {
-    height: 1000px;
-    width: 400px;
+    height: 750px;
+    width: 370px;
     background-color: purple;
     flex-direction: column;
+    float: left;
+    padding:15px;
 }
 .ingredients{
     max-width: 1000px;
-    height: 150px;
-    background-color: purple;
+    height: 300px;
+    background-color: hotpink;
     position: relative;
-    margin-top: -150px;
+    margin-bottom: -750px;
     margin-left: 430px;
+}
+.bowl{
+    position: relative;
+    margin-top: 310px;
+    margin-left: 330px;
+    max-width: 1500px;
+    max-height: 1500px;
+    flex-direction: column;
+    float: right;
+    overflow: hidden;
+
+}
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-template-rows: auto auto;
+    grid-row: 0px;
+    align-items: normal;
+}
+
+.grid img {
+    border-color: pink;
+    padding: 15px;
+    max-width: 60%;
+    margin-top: 8px;
+    margin-left: 20px;
 }
