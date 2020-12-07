@@ -28,3 +28,13 @@ body {
     height: 1000px;
     width: 400px;
     background-color: purple;
+    flex-direction: column;
+}
+.ingredients{
+    max-width: 1000px;
+    height: 75px;
+    background-color: purple;
+    position: relative;
+    margin-top: -550px;
+    margin-left: 330px;
+}
