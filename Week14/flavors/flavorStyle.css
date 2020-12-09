@@ -49,8 +49,8 @@ body {
     position: relative;
     margin-top: 380px;
     margin-right: 130px;
-    width: 700px;
-    height: 700px;
+    width: 200px;
+    height: 200px;
     float: right;
     overflow: hidden;
     border-style: solid;
@@ -154,4 +154,22 @@ body {
     margin-right: 130px;
     float: right;
     overflow: hidden;
+}
+.container{
+	display: grid;
+	grid-template-columns: 188px 188px 188px;
+	grid-template-rows: 315px 315px 315px;
+	grid-gap: 20px;
+	bottom: 20px;
+	padding: 0vh;
+	border: 0px;
+	 margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.a {
+  background-image: url("flour.png");
+  grid-column: 1;
+  grid-row: 1;
 }
