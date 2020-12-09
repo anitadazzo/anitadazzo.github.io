@@ -46,16 +46,22 @@ body {
     border-color: rgb(53, 5, 85);
 }
 .bowl{
-    position: relative;
-    margin-top: 380px;
-    margin-right: 130px;
-    width: 200px;
-    height: 200px;
+    position: absolute;
+    width: 400px;
+    height: 400px;
     float: right;
     overflow: hidden;
     border-style: solid;
     border-width: thick;
     border-color: rgb(53, 5, 85);
+}
+.bowlcontainer{
+    margin-top: 380px;
+    margin-right: 130px;
+    position: relative;
+    float: right;
+    width: 410px;
+    height: 410px;
 }
 .grid {
     display: grid;
@@ -76,85 +82,7 @@ body {
     display: none;
   }
 
-.bakingsoda2{
-    position: relative;
-    margin-top: 380px;
-    margin-right: 130px;
-    float: right;
-    overflow: hidden;
-}
 
-.sugar2{
-    position: relative;
-    margin-top: 380px;
-    margin-right: 130px;
-    float: right;
-    overflow: hidden;
-}
-
-.flour2{
-    position: relative;
-    margin-top: 380px;
-    margin-right: 130px;
-    float: right;
-    overflow: hidden;
-}
-
-.eggs2{
-    position: relative;
-    margin-top: 380px;
-    margin-right: 130px;
-    float: right;
-    overflow: hidden;
-}
-
-.milk2{
-    position: relative;
-    margin-top: 380px;
-    margin-right: 130px;
-    float: right;
-    overflow: hidden;
-}
-
-.vanilla2{
-    position: relative;
-    margin-top: 380px;
-    margin-right: 130px;
-    float: right;
-    overflow: hidden;
-}
-
-.carrot2{
-    position: relative;
-    margin-top: 380px;
-    margin-right: 130px;
-    float: right;
-    overflow: hidden;
-}
-
-.chocolate2{
-    position: relative;
-    margin-top: 380px;
-    margin-right: 130px;
-    float: right;
-    overflow: hidden;
-}
-
-.butter2{
-    position: relative;
-    margin-top: 380px;
-    margin-right: 130px;
-    float: right;
-    overflow: hidden;
-}
-
-.lemon2{
-    position: relative;
-    margin-top: 380px;
-    margin-right: 130px;
-    float: right;
-    overflow: hidden;
-}
 .container{
 	display: grid;
 	grid-template-columns: 188px 188px 188px;
@@ -168,8 +96,6 @@ body {
   width: 50%;
 }
 
-.a {
-  background-image: url("flour.png");
-  grid-column: 1;
-  grid-row: 1;
+#pics{
+    width:20px;
 }

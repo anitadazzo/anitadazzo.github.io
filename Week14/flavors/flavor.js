@@ -1,22 +1,68 @@
-console.log("script!")
-
-function toggleImage() {
-    console.log("click!")
-    $('#bakingsoda2').toggleClass('hidden');
-  }
-
-var myButton = $('#theBakingSodaButton')
-  myButton.on('click',toggleImage);
-
-document.querySelector("#theBakingSodaButton").addEventListener("click", toggleImage)
-   $('#theBakingSodaButton').click(toggleImage);
-
-const BakingSodaButton = $("#theBakingSodaButton").on("click", bakingsodafunc);
-function bakingsodafunc() {
- $("#bakingsoda2").fadeIn(1000);
-}
 
 
+$(document).ready(function(){
+    $("#theBakingSodaButton").click(function(){
+        var url = "flavorPics/bakingsoda2.png";
+        var image = new Image();
+        image.src = url;
+        image.id = "pics";
+        $(".bowlContainer").append(image);
+    });
+    $("#theButterButton").click(function(){
+        var url = "flavorPics/butter2.png";
+        var image = new Image();
+        image.src = url;
+        $(".bowlContainer").append(image);
+    });
+    $("#theEggsButton").click(function(){
+        var url = "flavorPics/eggs2.png";
+        var image = new Image();
+        image.src = url;
+        $(".bowlContainer").append(image);
+    });
+    $("#theMilkButton").click(function(){
+        var url = "flavorPics/milk2.png";
+        var image = new Image();
+        image.src = url;
+        $(".bowlContainer").append(image);
+    });
+    $("#theFlourButton").click(function(){
+        var url = "flavorPics/flour2.png";
+        var image = new Image();
+        image.src = url;
+        $(".bowlContainer").append(image);
+    });
+    $("#theButterButton").click(function(){
+        var url = "flavorPics/butter2.png";
+        var image = new Image();
+        image.src = url;
+        $(".bowlContainer").append(image);
+    });
+    $("#theVanillaButton").click(function(){
+        var url = "flavorPics/vanilla2.png";
+        var image = new Image();
+        image.src = url;
+        $(".bowlContainer").append(image);
+    });
+    $("#theChocolateButton").click(function(){
+        var url = "flavorPics/chocolate2.png";
+        var image = new Image();
+        image.src = url;
+        $(".bowlContainer").append(image);
+    });
+    $("#theCarrotButton").click(function(){
+        var url = "flavorPics/carrot2.png";
+        var image = new Image();
+        image.src = url;
+        $(".bowlContainer").append(image);
+    });
+    $("#theLemonButton").click(function(){
+        var url = "flavorPics/lemon2.png";
+        var image = new Image();
+        image.src = url;
+        $(".bowlContainer").append(image);
+    });
+});
 
 // function toggleImage() {
 //     $('#sugar2').toggleClass('hidden');
