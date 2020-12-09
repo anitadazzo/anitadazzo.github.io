@@ -1,14 +1,22 @@
 console.log("script!")
 
-// function toggleImage() {
- //   console.log("click!")
- //   $('#bakingsoda2').toggleClass('hidden');
-  //}
+function toggleImage() {
+    console.log("click!")
+    $('#bakingsoda2').toggleClass('hidden');
+  }
 
-//var myButton = $('#theBakingSodaButton')
-  //myButton.on('click',toggleImage);
-//document.querySelector("#theBakingSodaButton").addEventListener("click", toggleImage)
-//   $('#theBakingSodaButton').click(toggleImage);
+var myButton = $('#theBakingSodaButton')
+  myButton.on('click',toggleImage);
+
+document.querySelector("#theBakingSodaButton").addEventListener("click", toggleImage)
+   $('#theBakingSodaButton').click(toggleImage);
+
+const BakingSodaButton = $("#theBakingSodaButton").on("click", bakingsodafunc);
+function bakingsodafunc() {
+ $("#bakingsoda2").fadeIn(1000);
+}
+
+
 
 // function toggleImage() {
 //     $('#sugar2').toggleClass('hidden');
@@ -63,9 +71,4 @@ console.log("script!")
 //   }
 
 //   $('#button').click(toggleImage);
-const BakingSodaButton = $("#theBakingSodaButton").on("click", bakingsodafunc);
 
-
-function bakingsodafunc() {
- $("#bakingsoda2").fadeIn(1000);
-}
