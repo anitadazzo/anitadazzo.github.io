@@ -11,7 +11,6 @@ html {
 h2 {
     color:white;
     font-size: 30px;
-    padding: 5px;
     background-color: purple;
     font-family: 'Coda Caption', sans-serif;
 }
@@ -34,6 +33,128 @@ body {
     border-width: thick;
     border-color: rgb(192, 24, 141);
 }
+
+.bowl{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    float: right;
+    overflow: hidden;
+    border-style: solid;
+    border-width: thick;
+    border-color: rgb(53, 5, 85);
+}
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-template-rows: auto auto;
+    grid-row: 0px;
+    align-items: normal;
+    padding:20px;
+
+}
+
+.grid img {
+    border-color: pink;
+    padding: 15px;
+    max-width: 60%;
+    margin-top: 3px;
+    margin-left: 20px;
+    
+}
+.hidden {
+    display: none;
+}
+.container{
+    display: grid;
+    grid-template-columns: 188px 188px 188px;
+    grid-template-rows: 315px 315px 315px;
+    grid-gap: 20px;
+    bottom: 20px;
+    padding: 0vh;
+    border: 0px;
+     margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
+.bowlContainer{
+    position: relative;
+    margin-top: 380px;
+    margin-right: 130px;
+    width: 510px;
+    height: 510px;
+    float: right;
+    overflow: hidden;
+}
+
+#pics{
+    position: relative;
+    width: 150px;
+}
+#theButterButton{
+    background-color: rgb(192, 24, 141);
+    border-style: solid;
+    border-width: thick;
+    border-color: rgb(192, 24, 141);
+}
+
+#theFlourButton{
+    background-color: rgb(192, 24, 141);
+    border-style: solid;
+    border-width: thick;
+    border-color: rgb(192, 24, 141);
+}
+#theSugarButton{
+    background-color: rgb(192, 24, 141);
+    border-style: solid;
+    border-width: thick;
+    border-color: rgb(192, 24, 141);
+}
+#theMilkButton{
+    background-color: rgb(192, 24, 141);
+    border-style: solid;
+    border-width: thick;
+    border-color: rgb(192, 24, 141);
+}
+#theEggsButton{
+    background-color: rgb(192, 24, 141);
+    border-style: solid;
+    border-width: thick;
+    border-color: rgb(192, 24, 141);
+}
+#theChocolateButton{
+    background-color: rgb(192, 24, 141);
+    border-style: solid;
+    border-width: thick;
+    border-color: rgb(192, 24, 141);
+}
+#theVanillaButton{
+    background-color: rgb(192, 24, 141);
+    border-style: solid;
+    border-width: thick;
+    border-color: rgb(192, 24, 141);
+}
+#theCarrotButton{
+    background-color: rgb(192, 24, 141);
+    border-style: solid;
+    border-width: thick;
+    border-color: rgb(192, 24, 141);
+}
+#theLemonButton{
+    background-color: rgb(192, 24, 141);
+    border-style: solid;
+    border-width: thick;
+    border-color: rgb(192, 24, 141);
+}
+#theBakingSodaButton{
+    background-color: rgb(192, 24, 141);
+    border-style: solid;
+    border-width: thick;
+    border-color: rgb(192, 24, 141);
+}
 .ingredients{
     max-width: 1000px;
     height: 290px;
@@ -45,57 +166,22 @@ body {
     border-width: thick;
     border-color: rgb(53, 5, 85);
 }
-.bowl{
-    position: absolute;
-    width: 400px;
-    height: 400px;
-    float: right;
-    overflow: hidden;
+.button {
+    background-color: rgb(218, 37, 148);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
     border-style: solid;
-    border-width: thick;
-    border-color: rgb(53, 5, 85);
-}
-.bowlcontainer{
-    margin-top: 380px;
-    margin-right: 130px;
-    position: relative;
-    float: right;
-    width: 410px;
-    height: 410px;
-}
-.grid {
-    display: grid;
-    grid-template-columns: auto auto auto auto auto;
-    grid-template-rows: auto auto;
-    grid-row: 0px;
-    align-items: normal;
-}
-
-.grid img {
-    border-color: pink;
-    padding: 15px;
-    max-width: 60%;
-    margin-top: 3px;
-    margin-left: 20px;
-}
-.hidden {
-    display: none;
-  }
-
-
-.container{
-	display: grid;
-	grid-template-columns: 188px 188px 188px;
-	grid-template-rows: 315px 315px 315px;
-	grid-gap: 20px;
-	bottom: 20px;
-	padding: 0vh;
-	border: 0px;
-	 margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-#pics{
-    width:20px;
+    border-width: thin;
+    border-color: BLACK;
+    font-family: 'Titan One', cursive;
+    margin-bottom: 50px;
 }
