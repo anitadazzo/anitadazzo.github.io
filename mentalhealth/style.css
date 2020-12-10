@@ -1,16 +1,32 @@
-h2{
+h3{
     font-size: 100px;
     display: flex;
     justify-content: center;
     color: white;
     background-color: black;
 }
+h2{
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    color: hotpink;
+    background-color: white;
+    border-style: solid;
+    border-width: thick;
+    border-color: orange;
+}
 
 html{
     background-image: url("pics/cheetah.jpg");
+    background-size: 225px 225px;
     font-family: 'Titan One', cursive;
 }
 #letsbeproductive{
+    border-style: solid;
+    border-width: thick;
+    border-color: orange;
+}
+#outofbed{
     border-style: solid;
     border-width: thick;
     border-color: orange;
