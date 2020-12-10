@@ -169,3 +169,8 @@ body {
 a{
     color:white;
 }
+#congratsHeader{
+    border-style: solid;
+    border-width: thick;
+    border-color: rgb(53, 5, 85)
+}
